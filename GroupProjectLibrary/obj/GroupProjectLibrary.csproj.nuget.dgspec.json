@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tarik/Projects/GroupProjectLibrary/GroupProjectLibrary/GroupProjectLibrary.csproj": {}
+    "/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/GroupProjectLibrary.csproj": {}
   },
   "projects": {
-    "/Users/tarik/Projects/GroupProjectLibrary/GroupProjectLibrary/GroupProjectLibrary.csproj": {
+    "/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/GroupProjectLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarik/Projects/GroupProjectLibrary/GroupProjectLibrary/GroupProjectLibrary.csproj",
+        "projectUniqueName": "/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/GroupProjectLibrary.csproj",
         "projectName": "GroupProjectLibrary",
-        "projectPath": "/Users/tarik/Projects/GroupProjectLibrary/GroupProjectLibrary/GroupProjectLibrary.csproj",
-        "packagesPath": "/Users/tarik/.nuget/packages/",
-        "outputPath": "/Users/tarik/Projects/GroupProjectLibrary/GroupProjectLibrary/obj/",
+        "projectPath": "/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/GroupProjectLibrary.csproj",
+        "packagesPath": "/Users/Alex/.nuget/packages/",
+        "outputPath": "/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tarik/.nuget/NuGet/NuGet.Config"
+          "/Users/Alex/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

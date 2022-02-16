@@ -1,0 +1,15 @@
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.csproj.AssemblyReference.cache
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.AssemblyInfoInputs.cache
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.AssemblyInfo.cs
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.csproj.CoreCompileInputs.cache
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/bin/Debug/net6.0/GroupProjectLibrary
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/bin/Debug/net6.0/GroupProjectLibrary.deps.json
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/bin/Debug/net6.0/GroupProjectLibrary.runtimeconfig.json
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/bin/Debug/net6.0/GroupProjectLibrary.dll
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/bin/Debug/net6.0/ref/GroupProjectLibrary.dll
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/bin/Debug/net6.0/GroupProjectLibrary.pdb
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.dll
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/ref/GroupProjectLibrary.dll
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.pdb
+/Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.genruntimeconfig.cache
