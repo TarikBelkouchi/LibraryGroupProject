@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A6648C5D-F586-45EA-9BF4-5965ED0778DC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroupProjectLibrary/gitIgnore.txt">
+    <Files>
+      <File FileName="GroupProjectLibrary/Program.cs" Line="1" Column="1" />
+      <File FileName="GroupProjectLibrary/gitIgnore.txt" Line="398" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GroupProjectLibrary" expanded="True">
+            <Node name="GroupProjectLibrary" expanded="True">
+              <Node name="gitIgnore.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GroupProjectLibrary FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
