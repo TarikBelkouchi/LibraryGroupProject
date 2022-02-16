@@ -6,10 +6,10 @@ namespace GroupProjectLibrary
 		public string Title { get; set; }
 		public string Author { get; set; }
 		public bool Status { get; set; }
-		public DateTime? DueDate { get; set; } //'?' is for making many Data types nullable
+		public DateOnly? DueDate { get; set; } //'?' is for making many Data types nullable
 
 		//checked out
-		public Book(string _title, string _author, bool _status, DateTime _duedate)
+		public Book(string _title, string _author, bool _status, DateOnly _duedate)
 		{
 			Title = _title;
 			Author = _author;
@@ -24,6 +24,13 @@ namespace GroupProjectLibrary
             Author = _author;
             Status = _status;
             DueDate = null;
+        }
+
+
+        //methods
+        public override string ToString()
+        {
+            return $"Title: {Title}, Author: {Author}, Status: {Status}, Due Date: {DueDate}";
         }
 
     }
