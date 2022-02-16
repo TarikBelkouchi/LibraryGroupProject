@@ -13,3 +13,11 @@
 /Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/ref/GroupProjectLibrary.dll
 /Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.pdb
 /Users/Alex/Desktop/LibraryGroupProject/GroupProjectLibrary/obj/Debug/net6.0/GroupProjectLibrary.genruntimeconfig.cache
+C:\Users\Tiger\OneDrive\Documents\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\obj\Debug\net6.0\GroupProjectLibrary.csproj.AssemblyReference.cache
+C:\Users\Tiger\OneDrive\Documents\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\obj\Debug\net6.0\GroupProjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiger\OneDrive\Documents\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\obj\Debug\net6.0\GroupProjectLibrary.AssemblyInfoInputs.cache
+C:\Users\Tiger\OneDrive\Documents\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\obj\Debug\net6.0\GroupProjectLibrary.AssemblyInfo.cs
+C:\Users\Tiger\OneDrive\Documents\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\obj\Debug\net6.0\GroupProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\OneDrive\Documents\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\obj\Debug\net6.0\GroupProjectLibrary.dll
+C:\Users\Tiger\OneDrive\Documents\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\obj\Debug\net6.0\ref\GroupProjectLibrary.dll
+C:\Users\Tiger\OneDrive\Documents\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\LibraryGroupProject\GroupProjectLibrary\obj\Debug\net6.0\GroupProjectLibrary.pdb

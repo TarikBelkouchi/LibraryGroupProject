@@ -38,6 +38,9 @@ namespace GroupProjectLibrary
 		//	}
 		//}
 
+		//-------------------------------
+		//git reset --hard
+		//used to remove chanes oyu made on your project, so oyu can copy whats on the repo
 
 	}
 }
