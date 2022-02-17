@@ -30,7 +30,7 @@ namespace GroupProjectLibrary
             }
         }
 
-  //      public void showTitle(List<Book> books)
+		//      public void showTitle(List<Book> books)
 		//{
 		//	foreach (Book b in books)
 		//	{
@@ -41,6 +41,24 @@ namespace GroupProjectLibrary
 		//-------------------------------
 		//git reset --hard
 		//used to remove chanes oyu made on your project, so oyu can copy whats on the repo
+
+
+		public string GetUserSearch()
+		{
+					Console.WriteLine("Search by author or title keyword");
+					string input = Console.ReadLine().ToLower().Trim();
+
+					foreach (Book book in books)
+                    {
+						if (book.Author.ToLower().Contains(input) || book.Title.ToLower().Contains(input))
+						{
+							return input;
+						}
+					}
+				return "Try again";
+		}
+
+
 
 	}
 }

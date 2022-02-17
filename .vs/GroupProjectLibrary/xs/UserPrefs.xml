@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{A6648C5D-F586-45EA-9BF4-5965ED0778DC}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="GroupProjectLibrary/Program.cs">
     <Files>
-      <File FileName="GroupProjectLibrary/Program.cs" Line="20" Column="1" />
-      <File FileName="GroupProjectLibrary/Library.cs" Line="38" Column="32" />
-      <File FileName="GroupProjectLibrary/Book.cs" Line="1" Column="1" />
+      <File FileName="GroupProjectLibrary/Program.cs" Line="25" Column="31" />
+      <File FileName="GroupProjectLibrary/Library.cs" Line="8" Column="1" />
+      <File FileName="GroupProjectLibrary/Book.cs" Line="35" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GroupProjectLibrary" expanded="True">
-            <Node name="GroupProjectLibrary" expanded="True" />
+            <Node name="GroupProjectLibrary" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -18,11 +20,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.GroupProjectLibrary PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
 </Properties>
